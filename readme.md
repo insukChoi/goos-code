@@ -1,4 +1,4 @@
-# TDD 공부를 위한 goodsCode 분석
+# TDD 공부를 위한 goosCode 분석
 
 forked from [sf105/goos-code](https://github.com/sf105/goos-code)
 
